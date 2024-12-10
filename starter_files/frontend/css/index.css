@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+  font-family: "Sour Gummy", sans-serif;
+}
+
+.main__card {
+    min-height: 90vh;
+}
+
+.volume__icon:active {
+  color: rgb(220, 53, 69);
+}
+
+.volume__icon:active {
+  cursor: pointer;
+}
